@@ -8802,3 +8802,4 @@ Kunal Khallar - Learning to contribute :)
 -[seifzel](https://github.com/seifzel)
 - [Unnati Sharma](https://github.com/unnatisharmaa10-tech) - My first experience in open source
 - [Amrit Singh](https://github.com/Amrit7733)
+- [Vaishnavi Chavan](https://github.com/VaishnaviChavanIT) "Hello everyone! This is my first open-source contribution. I'm excited to be part of this community!"
